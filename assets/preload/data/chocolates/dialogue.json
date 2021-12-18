@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "fancycouple",
+			"boxState": "normal",
+			"expression": "gf",
+			"text": "Yo, I'm really glad we get to do this. I didn't think this was your kinda thing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fancycouple",
+			"boxState": "normal",
+			"expression": "bf",
+			"text": "Skeep ba do boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fancycouple",
+			"boxState": "normal",
+			"expression": "gfcheer",
+			"text": "Pretty candles, a live band, they've got it all! This place rocks!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupid",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "God, just shut up."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fancycouple",
+			"boxState": "normal",
+			"expression": "gfbruh",
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fancycouple",
+			"boxState": "normal",
+			"expression": "gfbruh",
+			"text": "What's your deal??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupid",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "Y'all are too cute. It's sickening."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fancycouple",
+			"boxState": "normal",
+			"expression": "bf",
+			"text": "Be ska dop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupid",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Wha-?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupid",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "Ugh, whatever, punk."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupid",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "What\\'re a couple like y'all doing in such a soulless place?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fancycouple",
+			"boxState": "normal",
+			"expression": "gfbruh",
+			"text": "Jeez, what is YOUR problem??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fancycouple",
+			"boxState": "normal",
+			"expression": "gfbruh",
+			"text": "Mind your own business, vamp!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fancycouple",
+			"boxState": "normal",
+			"expression": "bf",
+			"text": "De boo rop wooby"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupid",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "Uh huh. Sure."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seems like you brought a mic, why don't you get on stage?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupid",
+			"boxState": "normal",
+			"expression": "ugh",
+			"text": "I was gonna do that with someone else, but..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupid",
+			"boxState": "normal",
+			"expression": "regret",
+			"text": "So much for that."
+		}
+	]
+}

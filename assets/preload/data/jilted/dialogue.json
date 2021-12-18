@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cupidsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "L-look, it hurts enough to stay here after someone never shows up."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupidsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Even though it's happened dozens of times... trying just gets harder."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupidsad",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I should've just gone home...\\nI could be eating a tub of ice cream until I get sick..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupidsad",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "But instead I'm ruining everything for\\neveryone else..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupidsad",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "God, I'm such a bitch...\\nNo wonder nobody loves me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupidsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But I've been so selfish already, so..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cupidsad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "While we're here..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "cupidsad",
+			"boxState": "angry",
+			"expression": "yell",
+			"text": "P- please, just let me have this...!"
+		}
+	]
+}

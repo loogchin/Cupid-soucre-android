@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Chocolates", "cupid", [146, 113, 253]],
+		["Lovesick", "cupid", [146, 113, 253]],
+		["Jilted", "cupid-cry", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"cupid",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "restaurant",
+
+	"storyName": "Candlelight Fight",
+	"weekBefore": "tutorial",
+	"weekName": "Week C",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

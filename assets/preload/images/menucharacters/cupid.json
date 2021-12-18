@@ -1,0 +1,10 @@
+{
+	"idle_anim": "CUPID IDLE",
+	"image": "Cupid_Assets_menu",
+	"position": [
+		200,
+		200
+	],
+	"scale": 0.5,
+	"confirm_anim": "M Dad Idle"
+}

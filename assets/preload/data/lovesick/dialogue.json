@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "whoops",
+			"text": "Shit.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cupid"
+		},
+		{
+			"expression": "whoops",
+			"text": "Maybe taking y'all on was a mistake...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cupid"
+		},
+		{
+			"expression": "bf",
+			"text": "Doo be de ba dep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fancycouple"
+		},
+		{
+			"expression": "gf",
+			"text": "So you'll get out of our hair?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fancycouple"
+		},
+		{
+			"expression": "pissed",
+			"text": "Go to hell!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "cupid"
+		},
+		{
+			"expression": "whoops",
+			"text": "I MEAN-",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "cupid"
+		},
+		{
+			"expression": "regret",
+			"text": "*sighhhhhhh*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cupid"
+		},
+		{
+			"expression": "regret",
+			"text": "It's nice to see that y'all can stick by each other's side.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cupid"
+		},
+		{
+			"expression": "regret",
+			"text": "Can't say I trust anyone to do the same for me.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cupid"
+		},
+		{
+			"expression": "bf",
+			"text": "Da be skabboby",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fancycouple"
+		},
+		{
+			"expression": "ugh",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.105,
+			"portrait": "cupid"
+		},
+		{
+			"expression": "regret",
+			"text": "What am I doing?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cupid"
+		}
+	]
+}

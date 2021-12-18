@@ -1,0 +1,115 @@
+{
+	"position": [
+		0,
+		-90
+	],
+	"dialogue_pos": "right",
+	"scale": 1.4,
+	"image": "bfgfports",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "BFFancy0",
+			"loop_name": "BFFancy\t"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"loop_name": "BF EXCITED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED0",
+			"loop_name": "BF PISSED LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"loop_name": "BF SHOCK LOOP"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bf",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BFFancy",
+			"idle_name": "BFFancy0"
+		},
+		{
+			"loop_name": "GFNeutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GFNeutral",
+			"anim": "gf",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GFCheer",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GFCheer",
+			"anim": "gfcheer",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GFBruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GFBruh",
+			"anim": "gfbruh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

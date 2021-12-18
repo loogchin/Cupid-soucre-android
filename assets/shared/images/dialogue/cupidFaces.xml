@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cupidFaces.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CUPID NORMAL 0000" x="0" y="0" width="499" height="499" frameX="0" frameY="0" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="CUPID PEEVED 0000" x="500" y="0" width="499" height="499" frameX="0" frameY="0" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="CUPID SIGH 0000" x="1000" y="0" width="499" height="499" frameX="0" frameY="0" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="CUPID ANGRY 0000" x="1500" y="0" width="499" height="499" frameX="0" frameY="0" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="CUPID MISS 0000" x="2000" y="0" width="499" height="499" frameX="0" frameY="0" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="CUPID AIRFRYER 0000" x="2500" y="0" width="499" height="499" frameX="0" frameY="0" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

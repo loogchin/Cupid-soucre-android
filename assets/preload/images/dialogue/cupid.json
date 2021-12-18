@@ -1,0 +1,89 @@
+{
+	"position": [
+		60,
+		-20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "cupidFaces",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "CUPID NORMAL ",
+			"loop_name": "CUPID NORMAL "
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "CUPID PEEVED ",
+			"idle_name": "CUPID PEEVED "
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "regret",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "CUPID SIGH ",
+			"idle_name": "CUPID SIGH "
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "CUPID ANGRY ",
+			"idle_name": "CUPID ANGRY "
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "whoops",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "CUPID MISS ",
+			"idle_name": "CUPID MISS "
+		},
+		{
+			"loop_name": "CUPID AIRFRYER ",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "CUPID AIRFRYER ",
+			"anim": "clearly",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

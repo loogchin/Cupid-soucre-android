@@ -1,0 +1,50 @@
+{
+	"position": [
+		80,
+		-20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.1,
+	"image": "cupid-furyFaces",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "CUPID FURY NORMAL ",
+			"loop_name": "CUPID FURY NORMAL "
+		},
+		{
+			"loop_name": "CUPID FURY SAD ",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "CUPID FURY SAD ",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "CUPID FURY YELL ",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "CUPID FURY YELL ",
+			"anim": "yell",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
